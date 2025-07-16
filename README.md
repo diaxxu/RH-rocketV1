@@ -1,53 +1,51 @@
-# RH-rocketV1
+# 🚀 RH-rocketV1
 
-Simple Rocket Project :<br/>
-This is a basic single-stage model rocket powered by a solid D-class motor.
-The design is focused on stability, safe recovery, and being easy to build with common materials.
----
-📦 Project :<br/>
----
-* Rocket Type: Single-stage
+## Simple Rocket Project
 
-* Motor: Commercial solid rocket motor (D12)
-
-* Length: 75 cm
-
-* Body: Carbon Fiber Tub
-
-* Nose Cone: PLA + Fiberglass + Resin
-
-* Fins: PLA 3d printed
-
-* Recovery: Parachute deployed with delay charge
-
-* Electronics Bay: Space for altimeter (future upgrade: GPS or IMU)
+This is a basic single-stage model rocket powered by a solid D-class motor.  
+The design focuses on stability, safe recovery, and being easy to build with common materials.
 
 ---
-🧰 Tools & Materials 
----
 
-* Fusion 360 for CAD 
+##  Project Details
 
-* 3d Printer 
-
-* Resin (nose)
-
-* Estes D-class motor (D12)
-
----
-🚀 Flight Summary <br/>
----
--Launched from an open field with proper safety precautions.<br/>
--Reached approximately 300 meters in altitude.<br/>
--Parachute deployed successfully.<br/>
--Rocket recovered with minor scuffs on fins.
+- **Rocket Type:** Single-stage  
+- **Motor:** Commercial solid rocket motor (D12)  
+- **Length:** 75 cm  
+- **Body:** Carbon fiber tube  
+- **Nose Cone:** PLA + fiberglass + resin  
+- **Fins:** 3D-printed PLA  
+- **Recovery:** Parachute deployed with delay charge  
+- **Electronics Bay:** Space for altimeter *(future upgrade: GPS or IMU)*
 
 ---
-Files
----
-/CAD — 3D model files
+
+##  Tools & Materials
+
+- Fusion 360 (CAD)  
+- 3D printer (for nose cone and fins)  
+- Resin and fiberglass  
+- Estes D-class motor (D12)  
 
 ---
-⚠️ Disclaimer
-This project is for educational and personal use only.
-Follow local laws and safety guidelines when building or launching rockets.
+
+##  Flight Summary
+
+-Launched from an open field with proper safety precautions  
+-Reached approximately 300 meters in altitude  
+-Parachute deployed successfully  
+-Rocket recovered with minor scuffs on fins  
+
+---
+
+## 📂 Files
+
+- `/CAD` — 3D model files (Fusion 360 format)  
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for educational and personal use only.  
+Always follow local laws and safety guidelines when building or launching rockets.
+
