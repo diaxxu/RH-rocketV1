@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="RH-rocketV1 Rocket Banner" width="100%">
+</p>
+
+
 # 🚀 RH-rocketV1
 
 ## Simple Rocket Project
