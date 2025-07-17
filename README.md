@@ -25,7 +25,8 @@ The design focuses on stability, safe recovery, and being easy to build with com
 - Fusion 360 (CAD)  
 - 3D printer (for nose cone and fins)  
 - Resin and fiberglass  
-- Estes D-class motor (D12)  
+- Estes D-class motor (D12)
+- Carbon Fiber Tube
 
 ---
 
