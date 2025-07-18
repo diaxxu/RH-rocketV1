@@ -1,8 +1,8 @@
 # 🚀 RH-rocketV1
 
-## Simple Rocket Project
+## Simple Rocket Project 
 
-This is a basic single-stage model rocket powered by a solid D-class motor.  
+This is a very basic single-stage model rocket powered by a solid D-class motor.  
 The design focuses on stability, safe recovery, and being easy to build with common materials.
 
 ---
